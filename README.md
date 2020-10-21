@@ -1,1 +1,1 @@
-# project_pinn-
+# lat_pinn
